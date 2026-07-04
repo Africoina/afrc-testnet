@@ -20,6 +20,7 @@ AFR!COIN is an initiative of **AFR!UMOJA COMMUNITY** ("The Hope of the Hopeless"
 | **VestingVault** | `0x3C156979864d756383D163ECfF681FBbeF9E1601` | Founder vesting (40/40/20 — 4/6/8 years) |
 | **PNPRegistry** | `0xC02d73f1c2492c39984887c2Fc612D6a952a386E` | .panaf.eth name registry |
 | **AFRCTreasury** | `0x0Aa96e7DD38c5377b2c3179AbfdA1803Ea65c1c7` | Multi-sig treasury (5/7) |
+| **FeeCollector** | `0xe376AA1832B14bdb3D96447FA728307C4A803B65` | Fee collection + automatic monthly burn |
 
 ---
 
